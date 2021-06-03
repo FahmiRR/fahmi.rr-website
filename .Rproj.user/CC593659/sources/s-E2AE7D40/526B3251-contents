@@ -1,0 +1,15 @@
+---
+title: This one is cobacoba dulu
+summary: Ini bukan post beneran
+author: FahmiRR
+date: '2021-06-02'
+slug: []
+categories: [R, R Markdown, R Viz]
+tags: [R, R Markdown, R Viz]
+thumbnail: "images/landscape.jpg"
+output:
+  blogdown::html_page:
+    highlight: tango
+    toc: true
+---
+
